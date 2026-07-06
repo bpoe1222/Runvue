@@ -154,4 +154,4 @@ For privacy questions, requests, or concerns, contact:
 
 **Bailey Poe**
 **Email:** Contact@BaileyPoe.dev
-**Privacy Policy URL:** [Your Published Privacy Policy URL]
+**Privacy Policy URL:** [https://bpoe1222.github.io/Runvue/](https://bpoe1222.github.io/Runvue/)
