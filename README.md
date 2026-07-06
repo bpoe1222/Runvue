@@ -3,7 +3,7 @@
 **Effective Date:** July 6th, 2026
 **Last Updated:** July 6th, 2026
 
-Runvue is a local-first Android health and fitness data application operated by **[Your Legal Name or Business Name]** (“Runvue,” “we,” “us,” or “our”).
+Runvue is a local-first Android health and fitness data application operated by **Bailey Poe** (“Runvue,” “we,” “us,” or “our”).
 
 This Privacy Policy explains how Runvue handles information when you use the Runvue mobile application.
 
